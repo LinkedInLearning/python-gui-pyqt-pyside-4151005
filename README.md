@@ -1,6 +1,6 @@
-# [DE-Kursname hier eintragen]
+# Python: GUI-Programmierung mit PyQt und PySide
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Python: GUI-Programmierung mit PyQt und PySide`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
