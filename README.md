@@ -36,11 +36,9 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**[Ralph Steyer]**
 
-_[Berufsbezeichnung hier eintragen]_
-
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steyer) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
