@@ -23,6 +23,6 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGQ3LVPMjFgtw/learning-public-crop_675_1200/B4DZoBj0tLIEAY-/0/1760962760327?e=2147483647&v=beta&t=uMDkk_R0yMqNLUG2haAFw83-QSW91kzSaEZkI3jJQQo
 
 [1]: # (End of DE-Instruction ###############################################################################################)
